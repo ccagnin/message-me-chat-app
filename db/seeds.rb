@@ -10,3 +10,5 @@ User.create(username: 'josh', password: 'password')
 User.create(username: 'bia', password: 'password')
 User.create(username: 'lenna', password: 'password')
 User.create(username: 'katyperry', password: 'password')
+
+Message.create(body: "Hello friend!", user: User.last)
