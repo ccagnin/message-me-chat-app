@@ -1,24 +1,19 @@
-# README
+<h1 align="center" id="title">Message Me - Chat App</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p id="description">Message Me Chat App is an online and real time chat app made to learn about WebSockets.</p>
 
-Things you may want to cover:
+<h2>🚀 Demo</h2>
 
-* Ruby version
+[Soon!](Soon!)
 
-* System dependencies
+  
+  
+<h2>💻 Built with</h2>
 
-* Configuration
+Technologies used in the project:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*   Ruby on Rails
+*   JavaScript
+*   HTML
+*   SCSS
+*   WebSocket
